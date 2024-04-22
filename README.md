@@ -1,4 +1,4 @@
-# Pulsatile Signal Cleansing
+# Artifact Generator
 
 ## Overview
 
