@@ -2,7 +2,8 @@
 
 ## Overview
 
-This repository is involved in ongoing research focused on developing models for cleansing pulsatile signals with artifact augmentation. Currently, a paper is in progress and is expected to be submitted to the archivx by June 2024. A link to the paper will be provided thereafter.
+This repository is committed to ongoing research focused on developing models for the purification of pulsatile signals, specifically through the integration of artifact augmentation. An research paper, which delineates the methodologies employed alongside artifact generation, is presently being drafted. The paper is scheduled to be submitted to arXiv by June 2024. Following its registration, a link to the document will be made accessible.
+
 
 ## Usage
 
